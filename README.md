@@ -6,3 +6,7 @@
 - Commit din linia de comanda
 - Ubuntu
 - DesignVerification utilizând SystemVerilog
+
+- Laboratorul se tine pe laptop personal
+- Cont de git și colaborator
+sergiugalaju@gmail.com
