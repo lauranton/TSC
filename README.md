@@ -26,3 +26,5 @@ code README.md deschide un fisier in vs code
 	git config --global user.email "your_email_address@example.com"
 3) To check the configuration, run:
 	git config --global --list
+4) git config --global credential.helper store
+5 nu mai vreau parolah
