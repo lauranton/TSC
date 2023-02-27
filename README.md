@@ -27,4 +27,11 @@ code README.md deschide un fisier in vs code
 3) To check the configuration, run:
 	git config --global --list
 4) git config --global credential.helper store
-5 nu mai vreau parolah
+5 nu mai vreau parola
+
+comenzi pentru generare cheie:
+rm -fr numefisier  -stergere dir
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"  -creare ssh
+
+
+!De citit despre git ignore  https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
