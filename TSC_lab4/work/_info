@@ -1,0 +1,160 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/user/Desktop/TSC_lab3
+vinstr_register
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 DXx4 work 18 instr_register_pkg 0 22 ZcTFj9ToAPF<hK9kMlGY72
+!s110 1679412337
+!i10b 1
+!s100 Tg2;ALoDBN5_<9KAA?zBz2
+Ic?;E>mGLZF1IiJ=AJOT421
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 instr_register_sv_unit
+S1
+Z3 dC:/Users/user/Desktop/TSC_lab4
+w1679396446
+8C:/Users/user/Desktop/TSC_lab4/lab_dut/instr_register.sv
+FC:/Users/user/Desktop/TSC_lab4/lab_dut/instr_register.sv
+L0 11
+Z4 OW;L;10.5c;63
+r1
+!s85 0
+31
+!s108 1679412337.000000
+!s107 C:/Users/user/Desktop/TSC_lab4/lab_dut/instr_register.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/user/Desktop/TSC_lab4/lab_dut/instr_register.sv|
+!s101 -O0
+!i113 1
+Z5 o-work work -O0
+Z6 tCvgOpt 0
+Xinstr_register_pkg
+R0
+!s110 1679412335
+!i10b 1
+!s100 _`LQ@;GTdE]9]BeEG1_>?3
+IZcTFj9ToAPF<hK9kMlGY72
+VZcTFj9ToAPF<hK9kMlGY72
+S1
+R3
+w1678692222
+8C:/Users/user/Desktop/TSC_lab4/lab_dut/instr_register_pkg.sv
+FC:/Users/user/Desktop/TSC_lab4/lab_dut/instr_register_pkg.sv
+L0 5
+R4
+r1
+!s85 0
+31
+!s108 1679412335.000000
+!s107 C:/Users/user/Desktop/TSC_lab4/lab_dut/instr_register_pkg.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/user/Desktop/TSC_lab4/lab_dut/instr_register_pkg.sv|
+!s101 -O0
+!i113 1
+R5
+R6
+vinstr_register_test
+R0
+R1
+!s110 1679412394
+!i10b 1
+!s100 N6cdUOkoTX]OH<[WPMoHS3
+IM2EGRBjG75D;:1[gdZ9O=0
+R2
+!s105 instr_register_test_sv_unit
+S1
+R3
+w1679412386
+8C:/Users/user/Desktop/TSC_lab4/lab01_testbench-interface/instr_register_test.sv
+FC:/Users/user/Desktop/TSC_lab4/lab01_testbench-interface/instr_register_test.sv
+L0 8
+R4
+r1
+!s85 0
+31
+!s108 1679412393.000000
+!s107 C:/Users/user/Desktop/TSC_lab4/lab01_testbench-interface/instr_register_test.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/user/Desktop/TSC_lab4/lab01_testbench-interface/instr_register_test.sv|
+!s101 -O0
+!i113 1
+R5
+R6
+Ytb_ifc
+R0
+R1
+!s110 1679396485
+!i10b 1
+!s100 9W>AVcHhBXii<Bfl@Xo5O2
+I8LT03df>AEPTBa5ZT]X0E1
+R2
+!s105 tb_ifc_sv_unit
+S1
+R3
+w1614777422
+8C:/Users/user/Desktop/TSC_lab4/lab01_testbench-interface/tb_ifc.sv
+FC:/Users/user/Desktop/TSC_lab4/lab01_testbench-interface/tb_ifc.sv
+L0 5
+R4
+r1
+!s85 0
+31
+!s108 1679396485.000000
+!s107 C:/Users/user/Desktop/TSC_lab4/lab01_testbench-interface/tb_ifc.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/user/Desktop/TSC_lab4/lab01_testbench-interface/tb_ifc.sv|
+!s101 -O0
+!i113 1
+R5
+R6
+vtest
+!s110 1679396491
+!i10b 1
+!s100 ZObh@Xc8TVS[ETnRI:z9`2
+IgI64GETQfM99PJm36AiOm2
+R2
+R3
+w1614777644
+8C:/Users/user/Desktop/TSC_lab4/test/test.v
+FC:/Users/user/Desktop/TSC_lab4/test/test.v
+L0 7
+R4
+r1
+!s85 0
+31
+!s108 1679396491.000000
+!s107 C:/Users/user/Desktop/TSC_lab4/test/test.v|
+!s90 -reportprogress|300|-work|work|C:/Users/user/Desktop/TSC_lab4/test/test.v|
+!s101 -O0
+!i113 1
+R5
+R6
+vtop
+R0
+R1
+!s110 1679412398
+!i10b 1
+!s100 Ch:V@G]V1O_5PWXI`Y1<a2
+IU<jLOT`<;PZZ0i`D6g8MK2
+R2
+!s105 top_sv_unit
+S1
+R3
+w1678691410
+8C:/Users/user/Desktop/TSC_lab4/lab01_testbench-interface/top.sv
+FC:/Users/user/Desktop/TSC_lab4/lab01_testbench-interface/top.sv
+L0 5
+R4
+r1
+!s85 0
+31
+!s108 1679412398.000000
+!s107 C:/Users/user/Desktop/TSC_lab4/lab01_testbench-interface/top.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/user/Desktop/TSC_lab4/lab01_testbench-interface/top.sv|
+!s101 -O0
+!i113 1
+R5
+R6
