@@ -1,0 +1,127 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d//wsl.localhost/Ubuntu/home/antonlau/TSC/TSC_nou/TSC/TSC_lab4
+T_opt
+!s110 1679521290
+V]YMGEXIM7llEIEhVe7coE2
+04 19 4 work instr_register_test fast 0
+=1-c4bde5f900fb-641b7609-1c5-1938
+Z1 o-quiet -auto_acc_if_foreign -work lab4
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.6d;65
+R0
+T_opt1
+!s110 1679521303
+VDlbYUjEU8mP_fE0HZLRnY3
+04 3 4 work top fast 0
+=1-c4bde5f900fb-641b7617-1ea-2964
+R1
+R2
+n@_opt1
+R3
+vinstr_register
+Z4 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z5 DXx4 work 18 instr_register_pkg 0 22 ]W=hO]n[MimczFg2gg5:N1
+!s110 1679521251
+!i10b 1
+!s100 Tg2;ALoDBN5_<9KAA?zBz2
+IiLY8dXU1`h4mKfa8MYTj03
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+!s105 instr_register_sv_unit
+S1
+R0
+Z7 w1679520186
+8//wsl.localhost/Ubuntu/home/antonlau/TSC/TSC_nou/TSC/TSC_lab4/lab_dut/instr_register.sv
+F//wsl.localhost/Ubuntu/home/antonlau/TSC/TSC_nou/TSC/TSC_lab4/lab_dut/instr_register.sv
+L0 11
+Z8 OL;L;10.6d;65
+r1
+!s85 0
+31
+!s108 1679521251.000000
+!s107 //wsl.localhost/Ubuntu/home/antonlau/TSC/TSC_nou/TSC/TSC_lab4/lab_dut/instr_register.sv|
+!s90 -reportprogress|300|-work|lab4|//wsl.localhost/Ubuntu/home/antonlau/TSC/TSC_nou/TSC/TSC_lab4/lab_dut/instr_register.sv|
+!i113 0
+Z9 o-work lab4 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+Xinstr_register_pkg
+R4
+!s110 1679521249
+!i10b 1
+!s100 _`LQ@;GTdE]9]BeEG1_>?3
+I]W=hO]n[MimczFg2gg5:N1
+V]W=hO]n[MimczFg2gg5:N1
+S1
+R0
+R7
+8//wsl.localhost/Ubuntu/home/antonlau/TSC/TSC_nou/TSC/TSC_lab4/lab_dut/instr_register_pkg.sv
+F//wsl.localhost/Ubuntu/home/antonlau/TSC/TSC_nou/TSC/TSC_lab4/lab_dut/instr_register_pkg.sv
+L0 5
+R8
+r1
+!s85 0
+31
+!s108 1679521249.000000
+!s107 //wsl.localhost/Ubuntu/home/antonlau/TSC/TSC_nou/TSC/TSC_lab4/lab_dut/instr_register_pkg.sv|
+!s90 -reportprogress|300|-work|lab4|//wsl.localhost/Ubuntu/home/antonlau/TSC/TSC_nou/TSC/TSC_lab4/lab_dut/instr_register_pkg.sv|
+!i113 0
+R9
+R2
+vinstr_register_test
+R4
+R5
+!s110 1679521260
+!i10b 1
+!s100 N6cdUOkoTX]OH<[WPMoHS3
+IhYYCfYkcLzMColl0J0ob[2
+R6
+!s105 instr_register_test_sv_unit
+S1
+R0
+R7
+8//wsl.localhost/Ubuntu/home/antonlau/TSC/TSC_nou/TSC/TSC_lab4/lab01_testbench-interface/instr_register_test.sv
+F//wsl.localhost/Ubuntu/home/antonlau/TSC/TSC_nou/TSC/TSC_lab4/lab01_testbench-interface/instr_register_test.sv
+L0 8
+R8
+r1
+!s85 0
+31
+!s108 1679521260.000000
+!s107 //wsl.localhost/Ubuntu/home/antonlau/TSC/TSC_nou/TSC/TSC_lab4/lab01_testbench-interface/instr_register_test.sv|
+!s90 -reportprogress|300|-work|lab4|//wsl.localhost/Ubuntu/home/antonlau/TSC/TSC_nou/TSC/TSC_lab4/lab01_testbench-interface/instr_register_test.sv|
+!i113 0
+R9
+R2
+vtop
+R4
+R5
+!s110 1679521258
+!i10b 1
+!s100 Ch:V@G]V1O_5PWXI`Y1<a2
+IcM4Tf:A?UIN]8^kdRnVE80
+R6
+!s105 top_sv_unit
+S1
+R0
+R7
+8//wsl.localhost/Ubuntu/home/antonlau/TSC/TSC_nou/TSC/TSC_lab4/lab01_testbench-interface/top.sv
+F//wsl.localhost/Ubuntu/home/antonlau/TSC/TSC_nou/TSC/TSC_lab4/lab01_testbench-interface/top.sv
+L0 5
+R8
+r1
+!s85 0
+31
+!s108 1679521258.000000
+!s107 //wsl.localhost/Ubuntu/home/antonlau/TSC/TSC_nou/TSC/TSC_lab4/lab01_testbench-interface/top.sv|
+!s90 -reportprogress|300|-work|lab4|//wsl.localhost/Ubuntu/home/antonlau/TSC/TSC_nou/TSC/TSC_lab4/lab01_testbench-interface/top.sv|
+!i113 0
+R9
+R2
