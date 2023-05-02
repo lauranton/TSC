@@ -1,5 +1,4 @@
-ivjkdnd
-ultimul baaaaa 4433222 - test_nou
+- test_nou
 
 # TSC
 
